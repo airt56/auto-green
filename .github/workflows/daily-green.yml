@@ -1,0 +1,53 @@
+name: 🟩 Daily Auto-Green & Tech Digest
+
+on:
+  # 每天定时自动运行（UTC 01:25 对应北京时间 09:25）
+  schedule:
+    - cron: '25 1 * * *'
+
+  # 支持在 GitHub 页面手动一键触发测试
+  workflow_dispatch:
+    inputs:
+      commits:
+        description: '指定本次提交次数（填 0 则随机提交 1~5 次）'
+        required: false
+        default: '0'
+
+# 显式声明仓库写入权限，无需手动去 Settings 开启 Workflow 读写权限
+permissions:
+  contents: write
+
+jobs:
+  auto-green:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 👤 Configure Git Author (关联你本人的 GitHub 贡献绿格子)
+        run: |
+          # 默认使用你本地 Git 配置的用户名与邮箱，确保 100% 计入个人主页绿格子
+          GIT_NAME="${{ vars.GIT_USER_NAME || 'LIU JIAQI' }}"
+          GIT_EMAIL="${{ vars.GIT_USER_EMAIL || 'design597933671@gmail.com' }}"
+          echo "Using Git Author: ${GIT_NAME} <${GIT_EMAIL}>"
+          git config user.name "${GIT_NAME}"
+          git config user.email "${GIT_EMAIL}"
+
+      - name: 🚀 Generate Daily Tech Digest & Random Commits (1~5)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COMMITS_INPUT="${{ github.event.inputs.commits || '0' }}"
+          python3 scripts/auto_green.py --auto-commit --min-commits 1 --max-commits 5 --commits "${COMMITS_INPUT}"
+
+      - name: 📤 Push Commits to Repository
+        run: |
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
