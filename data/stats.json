@@ -1,9 +1,16 @@
 {
-  "total_days": 0,
-  "total_commits": 0,
-  "current_streak": 0,
-  "longest_streak": 0,
-  "last_checkin_date": "",
-  "last_updated": "",
-  "history": []
+  "total_days": 145,
+  "total_commits": 2162,
+  "current_streak": 1,
+  "longest_streak": 14,
+  "last_checkin_date": "2026-09-26",
+  "last_updated": "2026-09-26 20:56:00 BJT",
+  "history": [
+    {
+      "timestamp": "2026-09-26 20:56:00 BJT",
+      "date": "2026-09-26",
+      "step": "1/1",
+      "note": "点亮 2026 年 1 月起 HELLOW 像素艺术墙并同步 README 看板"
+    }
+  ]
 }
