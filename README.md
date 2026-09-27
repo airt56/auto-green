@@ -27,18 +27,18 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-145%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-1%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2163%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-1%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-146%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-2%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2164%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-1%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-09-26 21:09:44 BJT`
-- 📂 **今日完整归档**：[archives/2026-09/2026-09-26.md](archives/2026-09/2026-09-26.md)
+- 🕒 **最后更新时间**：`2026-09-27 14:39:31 BJT`
+- 📂 **今日完整归档**：[archives/2026-09/2026-09-27.md](archives/2026-09/2026-09-27.md)
 
 ---
 
 ### 💡 每日极客格言 (Daily Dev Quote)
 
-> *"One of my most productive days was throwing away 1,000 lines of code."*  
-> 「我最高效的一天，是删掉了 1000 行代码。」  
-> —— **Ken Thompson**
+> *"Talk is cheap. Show me the code."*  
+> 「空谈无益，亮出代码。」  
+> —— **Linus Torvalds**
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**zai-org/ZCode**](https://github.com/zai-org/ZCode) | `TypeScript` | `6816` | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| [**jev-chat/jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) | `Kotlin` | `6622` | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| [**driceroland/Search**](https://github.com/driceroland/Search) | `Swift` | `2029` | A small, fast WebKit browser for macOS, by Office Commun. |
-| [**unreallabsai/unreal-agent**](https://github.com/unreallabsai/unreal-agent) | `Go` | `1955` | Async-first agent harness |
-| [**Contrastive-LM/CLM**](https://github.com/Contrastive-LM/CLM) | `Python` | `1412` | 暂无描述 |
+| [**jev-chat/jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) | `Kotlin` | `6705` | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+| [**unreallabsai/unreal-agent**](https://github.com/unreallabsai/unreal-agent) | `Go` | `1973` | Async-first agent harness |
+| [**Contrastive-LM/CLM**](https://github.com/Contrastive-LM/CLM) | `Python` | `1661` | 暂无描述 |
+| [**tobi/disktree**](https://github.com/tobi/disktree) | `Rust` | `1356` | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| [**yetone/magpie**](https://github.com/yetone/magpie) | `Go` | `1103` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) `🔥 168 pts`
-2. [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) `🔥 105 pts`
-3. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) `🔥 536 pts`
-4. [Floci: Locally emulating any cloud service](https://floci.io) `🔥 51 pts`
-5. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/) `🔥 184 pts`
+1. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) `🔥 159 pts`
+2. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) `🔥 378 pts`
+3. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) `🔥 222 pts`
+4. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) `🔥 259 pts`
+5. [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/) `🔥 161 pts`
 
 ---
 
@@ -68,6 +68,7 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-09-27 14:39:31 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-26 21:09:44 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-26 20:56:00 BJT` | `1/1` | 点亮 2026 年 1 月起 HELLOW 像素艺术墙并同步 README 看板 |
 <!-- AUTO-GREEN-END -->
