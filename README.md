@@ -27,18 +27,18 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-148%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-4%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2167%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-1%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-149%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-5%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2168%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-1%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-09-29 15:01:09 BJT`
-- 📂 **今日完整归档**：[archives/2026-09/2026-09-29.md](archives/2026-09/2026-09-29.md)
+- 🕒 **最后更新时间**：`2026-09-30 14:51:13 BJT`
+- 📂 **今日完整归档**：[archives/2026-09/2026-09-30.md](archives/2026-09/2026-09-30.md)
 
 ---
 
 ### 💡 每日极客格言 (Daily Dev Quote)
 
-> *"The best way to predict the future is to invent it."*  
-> 「预测未来的最好方式就是亲手创造它。」  
-> —— **Alan Kay**
+> *"Premature optimization is the root of all evil."*  
+> 「过早的优化是万恶之源。」  
+> —— **Donald Knuth**
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**Contrastive-LM/CLM**](https://github.com/Contrastive-LM/CLM) | `Python` | `2344` | 暂无描述 |
-| [**tobi/disktree**](https://github.com/tobi/disktree) | `Rust` | `1847` | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
-| [**mexicat/pdoom-video**](https://github.com/mexicat/pdoom-video) | `TypeScript` | `1833` | Code-rendered music video for "I'm Upping My P(doom)" |
-| [**KKKKhazix/AIHOT**](https://github.com/KKKKhazix/AIHOT) | `TypeScript` | `1783` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [**yetone/magpie**](https://github.com/yetone/magpie) | `Go` | `1730` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| [**KKKKhazix/AIHOT**](https://github.com/KKKKhazix/AIHOT) | `TypeScript` | `3589` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [**mexicat/pdoom-video**](https://github.com/mexicat/pdoom-video) | `TypeScript` | `2014` | Code-rendered music video for "I'm Upping My P(doom)" |
+| [**Niko1221/Strata**](https://github.com/Niko1221/Strata) | `C++` | `1988` | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Lin... |
+| [**tobi/disktree**](https://github.com/tobi/disktree) | `Rust` | `1935` | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| [**dzhng/jevgrep**](https://github.com/dzhng/jevgrep) | `TypeScript` | `1810` | Find code by asking what it does. A CLI for coding agents that uses Jev to discover rel... |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/) `🔥 82 pts`
-2. [The systems that no one will test](https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/) `🔥 5 pts`
-3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) `🔥 523 pts`
-4. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) `🔥 179 pts`
-5. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) `🔥 212 pts`
+1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) `🔥 485 pts`
+2. [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa) `🔥 65 pts`
+3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/) `🔥 549 pts`
+4. [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/) `🔥 33 pts`
+5. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) `🔥 207 pts`
 
 ---
 
@@ -68,12 +68,12 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-09-30 14:51:13 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-29 15:01:09 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-28 15:03:39 BJT` | `2/2` | 更新 README 每日科技看板与徽章 |
 | `2026-09-28 15:03:37 BJT` | `1/2` | 更新每日打卡计数与连续活跃状态 |
 | `2026-09-27 14:39:31 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-26 21:09:44 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
-| `2026-09-26 20:56:00 BJT` | `1/1` | 点亮 2026 年 1 月起 HELLOW 像素艺术墙并同步 README 看板 |
 <!-- AUTO-GREEN-END -->
 
 ---
