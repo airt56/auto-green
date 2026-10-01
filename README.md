@@ -27,10 +27,10 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-149%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-5%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2168%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-1%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-150%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-6%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2169%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-1%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-09-30 14:51:13 BJT`
-- 📂 **今日完整归档**：[archives/2026-09/2026-09-30.md](archives/2026-09/2026-09-30.md)
+- 🕒 **最后更新时间**：`2026-10-01 15:15:13 BJT`
+- 📂 **今日完整归档**：[archives/2026-10/2026-10-01.md](archives/2026-10/2026-10-01.md)
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**KKKKhazix/AIHOT**](https://github.com/KKKKhazix/AIHOT) | `TypeScript` | `3589` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [**mexicat/pdoom-video**](https://github.com/mexicat/pdoom-video) | `TypeScript` | `2014` | Code-rendered music video for "I'm Upping My P(doom)" |
-| [**Niko1221/Strata**](https://github.com/Niko1221/Strata) | `C++` | `1988` | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Lin... |
-| [**tobi/disktree**](https://github.com/tobi/disktree) | `Rust` | `1935` | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
-| [**dzhng/jevgrep**](https://github.com/dzhng/jevgrep) | `TypeScript` | `1810` | Find code by asking what it does. A CLI for coding agents that uses Jev to discover rel... |
+| [**KKKKhazix/AIHOT**](https://github.com/KKKKhazix/AIHOT) | `TypeScript` | `4213` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [**feder-cr/dots**](https://github.com/feder-cr/dots) | `Python` | `1961` | Open-source dots for the web: an AI agent with its own browser, one that does not get b... |
+| [**dzhng/jevgrep**](https://github.com/dzhng/jevgrep) | `TypeScript` | `1923` | Find code by asking what it does. A CLI for coding agents that uses Jev to discover rel... |
+| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | `Swift` | `1761` | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) a... |
+| [**firelex/jeff**](https://github.com/firelex/jeff) | `Python` | `1213` | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) `🔥 485 pts`
-2. [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa) `🔥 65 pts`
-3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/) `🔥 549 pts`
-4. [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/) `🔥 33 pts`
-5. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) `🔥 207 pts`
+1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) `🔥 1281 pts`
+2. [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) `🔥 196 pts`
+3. [Fuck Android Developer Verification Program](https://twitter.com/0xcrypto/status/2105515822643114182) `🔥 162 pts`
+4. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) `🔥 180 pts`
+5. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) `🔥 168 pts`
 
 ---
 
@@ -68,12 +68,12 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-10-01 15:15:13 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-30 14:51:13 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-29 15:01:09 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 | `2026-09-28 15:03:39 BJT` | `2/2` | 更新 README 每日科技看板与徽章 |
 | `2026-09-28 15:03:37 BJT` | `1/2` | 更新每日打卡计数与连续活跃状态 |
 | `2026-09-27 14:39:31 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
-| `2026-09-26 21:09:44 BJT` | `1/1` | 更新 README 每日科技看板与徽章 |
 <!-- AUTO-GREEN-END -->
 
 ---
