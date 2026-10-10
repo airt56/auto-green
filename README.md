@@ -27,18 +27,18 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-157%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-1%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2194%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-4%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-158%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-2%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2198%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-4%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-10-09 15:29:03 BJT`
-- 📂 **今日完整归档**：[archives/2026-10/2026-10-09.md](archives/2026-10/2026-10-09.md)
+- 🕒 **最后更新时间**：`2026-10-10 15:16:33 BJT`
+- 📂 **今日完整归档**：[archives/2026-10/2026-10-10.md](archives/2026-10/2026-10-10.md)
 
 ---
 
 ### 💡 每日极客格言 (Daily Dev Quote)
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> 「任何傻瓜都能写出计算机能懂的代码，优秀的程序员写出人类能懂的代码。」  
-> —— **Martin Fowler**
+> *"Premature optimization is the root of all evil."*  
+> 「过早的优化是万恶之源。」  
+> —— **Donald Knuth**
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**openai/math**](https://github.com/openai/math) | `Lean` | `12483` | 暂无描述 |
-| [**alchaincyf/huashu-art-motion**](https://github.com/alchaincyf/huashu-art-motion) | `JavaScript` | `2645` | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [**kargulstudio/sales-crm**](https://github.com/kargulstudio/sales-crm) | `TypeScript` | `1660` | 暂无描述 |
-| [**nullmoth/nvidia-macos-driver**](https://github.com/nullmoth/nvidia-macos-driver) | `Rust` | `1439` | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free,... |
-| [**mhtsec/ARTEX**](https://github.com/mhtsec/ARTEX) | `Go` | `1348` | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| [**openai/math**](https://github.com/openai/math) | `Lean` | `13308` | 暂无描述 |
+| [**alchaincyf/huashu-art-motion**](https://github.com/alchaincyf/huashu-art-motion) | `JavaScript` | `3027` | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [**mhtsec/ARTEX**](https://github.com/mhtsec/ARTEX) | `Go` | `2532` | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| [**storytold/wordcraft**](https://github.com/storytold/wordcraft) | `Rust` | `2191` | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [**zhongerxin/iPhone-use**](https://github.com/zhongerxin/iPhone-use) | `Python` | `2161` | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) `🔥 646 pts`
-2. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) `🔥 717 pts`
-3. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) `🔥 85 pts`
-4. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) `🔥 625 pts`
-5. [Theranos.world](https://www.theranos.world/) `🔥 406 pts`
+1. [REA Reverse – Engineer Anything](https://rea.tools/) `🔥 313 pts`
+2. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) `🔥 87 pts`
+3. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) `🔥 1167 pts`
+4. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) `🔥 869 pts`
+5. [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) `🔥 109 pts`
 
 ---
 
@@ -68,12 +68,12 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-10-10 15:16:33 BJT` | `4/4` | 更新 README 每日科技看板与徽章 |
+| `2026-10-10 15:16:31 BJT` | `3/4` | 同步 GitHub 近期热门飙升开源项目 |
+| `2026-10-10 15:16:29 BJT` | `2/4` | 收录今日极客格言与每日归档 |
+| `2026-10-10 15:16:27 BJT` | `1/4` | 更新每日打卡计数与连续活跃状态 |
 | `2026-10-09 15:29:03 BJT` | `4/4` | 更新 README 每日科技看板与徽章 |
 | `2026-10-09 15:29:01 BJT` | `3/4` | 同步 GitHub 近期热门飙升开源项目 |
-| `2026-10-09 15:28:59 BJT` | `2/4` | 收录今日极客格言与每日归档 |
-| `2026-10-09 15:28:57 BJT` | `1/4` | 更新每日打卡计数与连续活跃状态 |
-| `2026-10-07 15:19:36 BJT` | `4/4` | 更新 README 每日科技看板与徽章 |
-| `2026-10-07 15:19:34 BJT` | `3/4` | 同步 GitHub 近期热门飙升开源项目 |
 <!-- AUTO-GREEN-END -->
 
 ---
