@@ -27,18 +27,18 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-159%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-3%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2203%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-5%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-160%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-4%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2205%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-2%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-10-11 15:19:29 BJT`
-- 📂 **今日完整归档**：[archives/2026-10/2026-10-11.md](archives/2026-10/2026-10-11.md)
+- 🕒 **最后更新时间**：`2026-10-12 15:27:51 BJT`
+- 📂 **今日完整归档**：[archives/2026-10/2026-10-12.md](archives/2026-10/2026-10-12.md)
 
 ---
 
 ### 💡 每日极客格言 (Daily Dev Quote)
 
-> *"Premature optimization is the root of all evil."*  
-> 「过早的优化是万恶之源。」  
-> —— **Donald Knuth**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> 「任何傻瓜都能写出计算机能懂的代码，优秀的程序员写出人类能懂的代码。」  
+> —— **Martin Fowler**
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**openai/math**](https://github.com/openai/math) | `Lean` | `13796` | 暂无描述 |
-| [**storytold/wordcraft**](https://github.com/storytold/wordcraft) | `Rust` | `3506` | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [**alchaincyf/huashu-art-motion**](https://github.com/alchaincyf/huashu-art-motion) | `JavaScript` | `3278` | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [**mhtsec/ARTEX**](https://github.com/mhtsec/ARTEX) | `Go` | `3005` | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
-| [**zhongerxin/iPhone-use**](https://github.com/zhongerxin/iPhone-use) | `Python` | `2714` | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
+| [**openai/math**](https://github.com/openai/math) | `Lean` | `14202` | 暂无描述 |
+| [**storytold/wordcraft**](https://github.com/storytold/wordcraft) | `Rust` | `6938` | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [**wheresryan22/anatomy**](https://github.com/wheresryan22/anatomy) | `JavaScript` | `4140` | An agent skill for creating detailed, interactive isometric illustrations of real-world... |
+| [**alchaincyf/huashu-art-motion**](https://github.com/alchaincyf/huashu-art-motion) | `JavaScript` | `3469` | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [**mhtsec/ARTEX**](https://github.com/mhtsec/ARTEX) | `Go` | `3365` | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) `🔥 230 pts`
-2. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) `🔥 435 pts`
-3. [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) `🔥 296 pts`
-4. [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/) `🔥 28 pts`
-5. [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size) `🔥 14 pts`
+1. [Attack of the Vibe Coded Photoshop Clones](https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones) `🔥 75 pts`
+2. [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html) `🔥 71 pts`
+3. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) `🔥 301 pts`
+4. [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) `🔥 462 pts`
+5. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) `🔥 90 pts`
 
 ---
 
@@ -68,12 +68,12 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-10-12 15:27:51 BJT` | `2/2` | 更新 README 每日科技看板与徽章 |
+| `2026-10-12 15:27:49 BJT` | `1/2` | 更新每日打卡计数与连续活跃状态 |
 | `2026-10-11 15:19:29 BJT` | `5/5` | 更新 README 每日科技看板与徽章 |
 | `2026-10-11 15:19:27 BJT` | `4/5` | 同步 Hacker News 热门技术资讯 |
 | `2026-10-11 15:19:25 BJT` | `3/5` | 同步 GitHub 近期热门飙升开源项目 |
 | `2026-10-11 15:19:23 BJT` | `2/5` | 收录今日极客格言与每日归档 |
-| `2026-10-11 15:19:21 BJT` | `1/5` | 更新每日打卡计数与连续活跃状态 |
-| `2026-10-10 15:16:33 BJT` | `4/4` | 更新 README 每日科技看板与徽章 |
 <!-- AUTO-GREEN-END -->
 
 ---
