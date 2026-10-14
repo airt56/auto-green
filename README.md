@@ -27,18 +27,18 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-161%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-5%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2210%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-5%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-162%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-6%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2215%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-5%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-10-13 15:49:14 BJT`
-- 📂 **今日完整归档**：[archives/2026-10/2026-10-13.md](archives/2026-10/2026-10-13.md)
+- 🕒 **最后更新时间**：`2026-10-14 14:14:28 BJT`
+- 📂 **今日完整归档**：[archives/2026-10/2026-10-14.md](archives/2026-10/2026-10-14.md)
 
 ---
 
 ### 💡 每日极客格言 (Daily Dev Quote)
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> 「代码就像幽默，如果你必须解释它，那它就不够好。」  
-> —— **Cory House**
+> *"Talk is cheap. Show me the code."*  
+> 「空谈无益，亮出代码。」  
+> —— **Linus Torvalds**
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**storytold/wordcraft**](https://github.com/storytold/wordcraft) | `Rust` | `9760` | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [**wheresryan22/anatomy**](https://github.com/wheresryan22/anatomy) | `JavaScript` | `6925` | An agent skill for creating detailed, interactive isometric illustrations of real-world... |
-| [**storytold/gridcraft**](https://github.com/storytold/gridcraft) | `Rust` | `4024` | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust.... |
-| [**mhtsec/ARTEX**](https://github.com/mhtsec/ARTEX) | `Go` | `3724` | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
-| [**storytold/cadcraft**](https://github.com/storytold/cadcraft) | `Rust` | `3665` | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style... |
+| [**wheresryan22/anatomy**](https://github.com/wheresryan22/anatomy) | `JavaScript` | `8622` | An agent skill for creating detailed, interactive isometric illustrations of real-world... |
+| [**mhtsec/ARTEX**](https://github.com/mhtsec/ARTEX) | `Go` | `3957` | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| [**ARahim3/DigUp**](https://github.com/ARahim3/DigUp) | `Swift` | `2779` | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-... |
+| [**t4t5/omdrop-owl**](https://github.com/t4t5/omdrop-owl) | `Shell` | `2611` | airdrop for non-apple devices |
+| [**storytold/craft-launcher**](https://github.com/storytold/craft-launcher) | `Rust` | `2391` | The Craft App Launcher |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) `🔥 223 pts`
-2. [GLM-Legal](https://z.ai/blog/glm-legal) `🔥 532 pts`
-3. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) `🔥 178 pts`
-4. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) `🔥 528 pts`
-5. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) `🔥 635 pts`
+1. [Felix Rieseberg Homepage](https://felixrieseberg.com/) `🔥 81 pts`
+2. [Gemini 4 Argon](https://deepmind.google/models/gemini/) `🔥 1179 pts`
+3. [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) `🔥 58 pts`
+4. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) `🔥 597 pts`
+5. [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/) `🔥 49 pts`
 
 ---
 
@@ -68,12 +68,12 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-10-14 14:14:28 BJT` | `5/5` | 更新 README 每日科技看板与徽章 |
+| `2026-10-14 14:14:26 BJT` | `4/5` | 同步 Hacker News 热门技术资讯 |
+| `2026-10-14 14:14:24 BJT` | `3/5` | 同步 GitHub 近期热门飙升开源项目 |
+| `2026-10-14 14:14:22 BJT` | `2/5` | 收录今日极客格言与每日归档 |
+| `2026-10-14 14:14:20 BJT` | `1/5` | 更新每日打卡计数与连续活跃状态 |
 | `2026-10-13 15:49:14 BJT` | `5/5` | 更新 README 每日科技看板与徽章 |
-| `2026-10-13 15:49:12 BJT` | `4/5` | 同步 Hacker News 热门技术资讯 |
-| `2026-10-13 15:49:10 BJT` | `3/5` | 同步 GitHub 近期热门飙升开源项目 |
-| `2026-10-13 15:49:08 BJT` | `2/5` | 收录今日极客格言与每日归档 |
-| `2026-10-13 15:49:06 BJT` | `1/5` | 更新每日打卡计数与连续活跃状态 |
-| `2026-10-12 15:27:51 BJT` | `2/2` | 更新 README 每日科技看板与徽章 |
 <!-- AUTO-GREEN-END -->
 
 ---
