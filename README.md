@@ -27,18 +27,18 @@
 <!-- AUTO-GREEN-START -->
 ### 📊 自动点绿打卡统计 (Auto-Green Dashboard)
 
-![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-163%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-7%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2219%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-4%20%E6%AC%A1-006d32?style=flat-square)
+![累计打卡天数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%89%93%E5%8D%A1-164%20%E5%A4%A9-2ea44f?style=flat-square) ![连续打卡](https://img.shields.io/badge/%E8%BF%9E%E7%BB%AD%E6%89%93%E5%8D%A1-8%20%E5%A4%A9-39d353?style=flat-square) ![累计提交次数](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E6%8F%90%E4%BA%A4-2223%20%E6%AC%A1-26a641?style=flat-square) ![今日提交目标](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E9%9A%8F%E6%9C%BA%E6%8F%90%E4%BA%A4-4%20%E6%AC%A1-006d32?style=flat-square)
 
-- 🕒 **最后更新时间**：`2026-10-15 13:57:55 BJT`
-- 📂 **今日完整归档**：[archives/2026-10/2026-10-15.md](archives/2026-10/2026-10-15.md)
+- 🕒 **最后更新时间**：`2026-10-16 13:56:32 BJT`
+- 📂 **今日完整归档**：[archives/2026-10/2026-10-16.md](archives/2026-10/2026-10-16.md)
 
 ---
 
 ### 💡 每日极客格言 (Daily Dev Quote)
 
-> *"Controlling complexity is the essence of computer programming."*  
-> 「控制复杂度是计算机编程的本质。」  
-> —— **Brian Kernighan**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> 「任何傻瓜都能写出计算机能懂的代码，优秀的程序员写出人类能懂的代码。」  
+> —— **Martin Fowler**
 
 ---
 
@@ -46,21 +46,21 @@
 
 | 开源项目 | 语言 | ⭐ Stars | 简介 |
 | :--- | :---: | :---: | :--- |
-| [**storytold/craft-launcher**](https://github.com/storytold/craft-launcher) | `Rust` | `2707` | The Craft App Launcher |
-| [**jhaizhou-ops/d2r-mobile**](https://github.com/jhaizhou-ops/d2r-mobile) | `C` | `2428` | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign o... |
-| [**liseami/CCBaga**](https://github.com/liseami/CCBaga) | `Rust` | `2284` | 暂无描述 |
-| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | `C` | `2170` | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any Ope... |
-| [**Arekejoker/qwen21-nsfw-pose-skill**](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | `Python` | `1437` | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code ... |
+| [**jhaizhou-ops/d2r-mobile**](https://github.com/jhaizhou-ops/d2r-mobile) | `C` | `3291` | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign o... |
+| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | `C` | `2614` | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any Ope... |
+| [**liseami/CCBaga**](https://github.com/liseami/CCBaga) | `Rust` | `2355` | 暂无描述 |
+| [**Arekejoker/qwen21-nsfw-pose-skill**](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | `Python` | `2171` | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code ... |
+| [**HeyPuter/everything**](https://github.com/HeyPuter/everything) | `JavaScript` | `1399` | We're rebuilding and open-sourcing the world’s software from scratch. |
 
 ---
 
 ### 📰 Hacker News 每日科技热榜 (Top Tech News)
 
-1. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) `🔥 1080 pts`
-2. [An Apology](https://www.elevationlab.com/blogs/news/an-apology) `🔥 33 pts`
-3. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) `🔥 471 pts`
-4. [Tiny Little Office](https://tinylittleoffice.com/) `🔥 275 pts`
-5. [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) `🔥 147 pts`
+1. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) `🔥 728 pts`
+2. [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) `🔥 147 pts`
+3. [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) `🔥 104 pts`
+4. [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) `🔥 100 pts`
+5. ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/) `🔥 66 pts`
 
 ---
 
@@ -68,12 +68,12 @@
 
 | 时间 (BJT) | 进度 | 提交说明 |
 | :--- | :---: | :--- |
+| `2026-10-16 13:56:32 BJT` | `4/4` | 更新 README 每日科技看板与徽章 |
+| `2026-10-16 13:56:30 BJT` | `3/4` | 同步 GitHub 近期热门飙升开源项目 |
+| `2026-10-16 13:56:28 BJT` | `2/4` | 收录今日极客格言与每日归档 |
+| `2026-10-16 13:56:26 BJT` | `1/4` | 更新每日打卡计数与连续活跃状态 |
 | `2026-10-15 13:57:55 BJT` | `4/4` | 更新 README 每日科技看板与徽章 |
 | `2026-10-15 13:57:53 BJT` | `3/4` | 同步 GitHub 近期热门飙升开源项目 |
-| `2026-10-15 13:57:51 BJT` | `2/4` | 收录今日极客格言与每日归档 |
-| `2026-10-15 13:57:49 BJT` | `1/4` | 更新每日打卡计数与连续活跃状态 |
-| `2026-10-14 14:14:28 BJT` | `5/5` | 更新 README 每日科技看板与徽章 |
-| `2026-10-14 14:14:26 BJT` | `4/5` | 同步 Hacker News 热门技术资讯 |
 <!-- AUTO-GREEN-END -->
 
 ---
